@@ -1,0 +1,45 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    width:100%;
+    margin-top: 0;
+    text-align: center;
+}
+
+h3{
+    display: inline;
+}
+
+.popup_button{
+    float: right;
+    border: 1px solid white;
+}
+
+.modal-dialog{
+    width:90%;
+}
+
+#status{
+    font-size: 23px;
+}
+
+#copy_right_footer{
+    background-color: grey;
+    width:100%;
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    line-height: 3;
+    color:white;
+}
+
+canvas{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 130px;
+}
